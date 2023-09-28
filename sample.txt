@@ -1,3 +1,5 @@
-
 This is sample file
 1. branchA
+This is sample file2
+
+This is the contents in the sample file 2 in Branch B, now copied to Branch A via cherry-pick
